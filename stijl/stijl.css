@@ -12,3 +12,17 @@
 h1{
     margin-top: 0%;
 }
+.foto2 {
+    margin-right: 2%;
+    height: 30%;
+    width: 30%;
+    display: inline;
+    float: left;
+}
+.foto1{
+    margin-right: 2%;
+    height: 30%;
+    width: 30%;
+    display: inline;
+    float: bottom;
+}
